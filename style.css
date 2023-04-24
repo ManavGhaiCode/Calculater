@@ -86,6 +86,10 @@ h1 {
     background-color: #1e1e1e;
 }
 
+#number-pad button:active {
+   background-color: #101010;
+}
+
 #number-pad #zero {
     width: 22rem;
 }
