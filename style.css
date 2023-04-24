@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    background-color: rgb(93, 93, 93);
+    background-color: #5d5d5d;
 
     height: 98vh;
     width: 99vw;
@@ -55,7 +55,7 @@ h1 {
     border-radius: 5rem;
     padding: 1rem;
 
-    background-color: rgb(48, 48, 48);
+    background-color: #303030;
 
     overflow: hidden;
 }
@@ -76,13 +76,10 @@ h1 {
     height: 10rem;
     width: 10rem;
 
+    margin: 1rem;
+    outline: none;
     border-radius: 1rem;
 
-    outline: none;
-
-    margin: 1rem;
-
     font-size: 3rem;
-
-    background-color: rgb(30, 30, 30);
+    background-color: #1e1e1e;
 }
